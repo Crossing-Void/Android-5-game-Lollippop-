@@ -1,0 +1,27 @@
+{
+    "bottomLineWidth": 8,
+    "bottomLineColor": [
+        "white",
+        "red"
+    ],
+    "rectangleColor": [
+        "black",
+        "red"
+    ],
+    "scoreBoard": [
+        "0",
+        "gold"
+    ],
+    "timer": "0",
+    "rate": "0",
+    "playerImagePath": "images\\player",
+    "moveArgs": [
+        0,
+        0.01,
+        3000
+    ],
+    "jumpsRate": [
+        3.5,
+        2.5
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "BGM": "rush_02.mp3",
+    "loseSound": "finish/yo",
+    "collideTopSound": "collide/top",
+    "collideLoseSound": "finish/wrong",
+    "obstaclePassSound": "finish/correct"
+}

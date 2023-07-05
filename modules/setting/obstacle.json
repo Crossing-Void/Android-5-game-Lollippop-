@@ -1,0 +1,7 @@
+{
+    "obstacleColor": [
+        "random",
+        "black"
+    ],
+    "obstacleGlisteningSecond": 20
+}
